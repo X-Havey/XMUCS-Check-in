@@ -2,7 +2,7 @@
 
 厦门大学畅课（TronClass）签到 CLI，支持 Windows、macOS、Linux 和 iPhone a-Shell mini。
 
-基于 [KrsMt-0113/XMU-Rollcall-Bot](https://github.com/KrsMt-0113/XMU-Rollcall-Bot) 修改，参考 [alkali210/XMU-Rollcall-Bot](https://github.com/alkali210/XMU-Rollcall-Bot) 的接口适配工作。
+本项目基于 [KrsMt-0113/XMU-Rollcall-Bot](https://github.com/KrsMt-0113/XMU-Rollcall-Bot) 修改，参考 [alkali210/XMU-Rollcall-Bot](https://github.com/alkali210/XMU-Rollcall-Bot) 的接口适配工作，并根据厦门大学信息学院常用教学楼位置优化签到地点配置。
 
 ## 功能
 
