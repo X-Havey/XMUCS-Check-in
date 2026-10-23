@@ -1,0 +1,12 @@
+{
+  "requests": "2.32.3",
+  "urllib3": "2.3.0",
+  "certifi": "2026.2.25",
+  "idna": "3.7",
+  "click": "8.5.0",
+  "colorama": "0.4.6",
+  "xmulogin": "1.0.0",
+  "pyaes_commit": "23a1b4c0488bd38e03a48120dfda98913f4c87d2",
+  "charset_normalizer": "3.5.2",
+  "xmu_local_patch": "2026-10-23-utc-date-fix"
+}

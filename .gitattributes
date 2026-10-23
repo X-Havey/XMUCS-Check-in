@@ -1,0 +1,4 @@
+* text=auto
+
+# Preserve the bytes verified by the portable manifest, including vendored files.
+/portable/** -text -whitespace
